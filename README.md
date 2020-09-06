@@ -7,4 +7,4 @@ yts.mx의 영화 api를 받아왔습니다. api를 분석하여 영화의 title�
  - window 10
  - VSCode
  - node v12.18.3
- 
+ - "react": "^16.13.1"
