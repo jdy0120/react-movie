@@ -1,3 +1,8 @@
 .d_movie{
     text-align: center;
+    background-color: #a3676b;
+    font-weight: 300;
+    padding: 20px;
+    border-radius: 5px;
+    color: #adaeb9;
 }
